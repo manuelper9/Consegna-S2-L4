@@ -3,7 +3,7 @@
 
 int main() {
     
-    int scelta;
+    char scelta;
     char nome[30];
     int punteggioTotale = 0;
 
